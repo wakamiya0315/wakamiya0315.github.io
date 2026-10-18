@@ -1,0 +1,406 @@
+{
+  "site": {
+    "name": "Taishiro Wakamiya",
+    "authorAliases": [
+      "Taishiro Wakamiya",
+      "T. Wakamiya"
+    ],
+    "url": "https://wakamiya0315.github.io/",
+    "githubUrl": "https://github.com/wakamiya0315",
+    "updated": "2026-10-18",
+    "sourceUrl": "https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?lv=en&q_researcher_content_number=6b70999a586b49bfd6f87789e46acb11&alldisp=1&tab_yf=2026"
+  },
+  "records": [
+    {
+      "id": "CTT100942285",
+      "category": "journal",
+      "title": "Artificial catalyst generation for the oxygen reduction reaction using conditional variational autoencoder and atomistic calculations.",
+      "titleLanguage": "en",
+      "authors": [
+        "Taishiro Wakamiya",
+        "Atsushi Ishikawa"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100942285",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100942285.html"
+      },
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1038/s41524-026-02075-0"
+        }
+      ],
+      "date": "2026-04-14",
+      "venue": "npj Computational Materials"
+    },
+    {
+      "id": "CTT100928680",
+      "category": "journal",
+      "title": "Kernel regression methods for prediction of materials properties: recent developments",
+      "titleLanguage": "en",
+      "authors": [
+        "Y. Thant",
+        "T. Wakamiya",
+        "M. Nukunudompanich",
+        "K. Kameda",
+        "M. Ihara",
+        "S. Manzhos"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100928680",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100928680.html",
+        "additional": [
+          {
+            "url": "https://api.crossref.org/works/10.1063/5.0242118",
+            "accessedDate": "2026-10-18",
+            "archive": "sources/crossref/10.1063-5.0242118.json"
+          }
+        ]
+      },
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1063/5.0242118"
+        }
+      ],
+      "date": "2025-03",
+      "venue": "Chemical Physics Reviews",
+      "volume": "6",
+      "issue": "1"
+    },
+    {
+      "id": "CTT100944899",
+      "category": "international-conference",
+      "title": "Inverse Design of Oxygen Reduction Reaction Electrocatalysts Using Generative Models and Neural Network Potentials",
+      "titleLanguage": "en",
+      "authors": [
+        "Taishiro Wakamiya",
+        "Atsushi Ishikawa"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100944899",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100944899.html"
+      },
+      "links": [],
+      "date": "2026-08-20",
+      "venue": "The 10th Tokyo Conference on Advanced Catalytic Science and Technology (TOCAT10)",
+      "location": "東京都",
+      "award": "ACS Publications Outstanding Poster Award"
+    },
+    {
+      "id": "CTT100929553",
+      "category": "international-conference",
+      "title": "Concept and Advantages of Carbon/Air Secondary Battery System as a Fixed Compact Power Storage with Large Capacity",
+      "titleLanguage": "en",
+      "authors": [
+        "Manabu Ihara",
+        "Keisuke Kameda",
+        "Taishiro Wakamiya",
+        "Reimi Takagi",
+        "Chen Kexin",
+        "Sergei Manzhos"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100929553",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100929553.html"
+      },
+      "links": [],
+      "date": "2024-10",
+      "venue": "PRiME 2024",
+      "location": "Honolulu"
+    },
+    {
+      "id": "CTT100929551",
+      "category": "international-conference",
+      "title": "Significantly Improved Stability of Carbon/Air Secondary Battery System By Separating Carbon Deposition Area",
+      "titleLanguage": "en",
+      "authors": [
+        "Keisuke Kameda",
+        "Taishiro Wakamiya",
+        "Reimi Takagi",
+        "Sergei Manzhos",
+        "Manabu Ihara"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100929551",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100929551.html"
+      },
+      "links": [],
+      "date": "2024-10",
+      "venue": "PRiME 2024",
+      "location": "Honolulu"
+    },
+    {
+      "id": "CTT100942067",
+      "category": "domestic-conference",
+      "title": "生成モデルと機械学習ポテンシャルを用いた多目的最適化による不均一系触媒設計",
+      "titleLanguage": "ja",
+      "authors": [
+        "Taishiro Wakamiya",
+        "Atsushi Ishikawa"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100942067",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100942067.html"
+      },
+      "links": [],
+      "date": "2026-03-23",
+      "venue": "第137回触媒討論会",
+      "location": "東京都"
+    },
+    {
+      "id": "CTT100939819",
+      "category": "domestic-conference",
+      "title": "機械学習⼒場と変分オートエンコーダを⽤いた酸素還元反応触媒の理論的探索",
+      "titleLanguage": "ja",
+      "authors": [
+        "Taishiro Wakamiya",
+        "Atsushi Ishikawa"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100939819",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100939819.html"
+      },
+      "links": [],
+      "date": "2025-11",
+      "venue": "⽇本コンピュータ化学会2025年秋季年会",
+      "location": "岐阜県"
+    },
+    {
+      "id": "CTT100925715",
+      "category": "domestic-conference",
+      "title": "カーボン空気二次電池システムにおける充放電特性のサーメット電極依存性",
+      "titleLanguage": "ja",
+      "authors": [
+        "Taishiro Wakamiya",
+        "Kexin Chen",
+        "Keisuke Kameda",
+        "Sergei Manzhos",
+        "Manabu Ihara"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100925715",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100925715.html"
+      },
+      "links": [],
+      "date": "2024-09",
+      "venue": "化学工学会第55回秋季大会",
+      "location": "北海道"
+    },
+    {
+      "id": "CTT100925714",
+      "category": "domestic-conference",
+      "title": "高効率と耐久性向上を両立させるカーボン空気二次電池システムのニッケルベース燃料極の開発",
+      "titleLanguage": "ja",
+      "authors": [
+        "Keisuke Kameda",
+        "Taishiro Wakamiya",
+        "Sara Yoshida",
+        "Kexin Chen",
+        "Sergei Manzhos",
+        "Manabu Ihara"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100925714",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100925714.html"
+      },
+      "links": [],
+      "date": "2024-09",
+      "venue": "化学工学会第55回秋季大会",
+      "location": "北海道"
+    },
+    {
+      "id": "CTT100925713",
+      "category": "domestic-conference",
+      "title": "カーボン空気二次電池システムの充放電特性に対する温度依存性",
+      "titleLanguage": "ja",
+      "authors": [
+        "Reimi Takagi",
+        "Kouta Katou",
+        "Asuka Endou",
+        "Kexin Chen",
+        "Taishiro Wakamiya",
+        "Keisuke Kameda",
+        "Sergei Manzhos",
+        "Manabu Ihara"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100925713",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100925713.html"
+      },
+      "links": [],
+      "date": "2024-09",
+      "venue": "化学工学会第55回秋季大会",
+      "location": "北海道"
+    },
+    {
+      "id": "CTT100909025",
+      "category": "domestic-conference",
+      "title": "炭素析出制御可能なカーボン空気二次電池システムの電極開発",
+      "titleLanguage": "ja",
+      "authors": [
+        "Keisuke Kameda",
+        "Taishiro Wakamiya",
+        "Kexin Chen",
+        "Sergei Manzhos",
+        "Manabu Ihara"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100909025",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100909025.html"
+      },
+      "links": [],
+      "date": "2024-03-20",
+      "venue": "化学工学会 第89年会 (堺)",
+      "location": "大阪"
+    },
+    {
+      "id": "CTT100909024",
+      "category": "domestic-conference",
+      "title": "電極反応モデルに基づく水素発電におけるBaZr0.9Y0.1O3-δ添加Ni/YSZ燃料極の反応種被覆率の推定",
+      "titleLanguage": "ja",
+      "authors": [
+        "Keisuke Kameda",
+        "Kei Nakagawa",
+        "Yasutomo Koga",
+        "Kexin Chen",
+        "Reimi Takagi",
+        "Taishiro Wakamiya",
+        "Narumi Okazaki",
+        "Hyojae Lee",
+        "Natsuki Otoshi",
+        "Sergei Manzhos",
+        "Manabu Ihara"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100909024",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100909024.html"
+      },
+      "links": [],
+      "date": "2024-03-20",
+      "venue": "化学工学会 第89年会 (堺)",
+      "location": "大阪"
+    },
+    {
+      "id": "CTT100943687",
+      "category": "patent",
+      "title": "二次電池並びに該二次電池用の負極材料及びその製造方法",
+      "titleLanguage": "ja",
+      "authors": [
+        "Manabu Ihara",
+        "Keisuke Kameda",
+        "Sergei Manzhos",
+        "Taishiro Wakamiya",
+        "Sara Yoshida"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100943687",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100943687.html"
+      },
+      "links": [],
+      "patent": {
+        "status": "published",
+        "applicant": "国立大学法人東京科学大学",
+        "filingDate": "2025-08-27",
+        "applicationNumber": "PCT/JP2025/030128",
+        "publicationDate": "2026-03-05",
+        "publicationNumber": "WO 2026/048878"
+      }
+    },
+    {
+      "id": "CTT100943688",
+      "category": "patent",
+      "title": "二次電池並びに該二次電池用の触媒及びその製造方法",
+      "titleLanguage": "ja",
+      "authors": [
+        "Manabu Ihara",
+        "Keisuke Kameda",
+        "Sergei Manzhos",
+        "Taishiro Wakamiya",
+        "Asuka Endou"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100943688",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100943688.html"
+      },
+      "links": [],
+      "patent": {
+        "status": "published",
+        "applicant": "国立大学法人東京科学大学",
+        "filingDate": "2025-08-27",
+        "applicationNumber": "PCT/JP2025/030129",
+        "publicationDate": "2026-03-05",
+        "publicationNumber": "WO 2026/048879"
+      }
+    },
+    {
+      "id": "CTT100932502",
+      "category": "patent",
+      "title": "カーボン空気二次電池",
+      "titleLanguage": "ja",
+      "authors": [
+        "Manabu Ihara",
+        "Keisuke Kameda",
+        "Reimi Takagi",
+        "Taishiro Wakamiya"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100932502",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100932502.html"
+      },
+      "links": [],
+      "patent": {
+        "status": "registered",
+        "applicant": "国立大学法人東京科学大学",
+        "filingDate": "2024-03-04",
+        "applicationNumber": "特願2024-538363",
+        "publicationDate": "2024-09-19",
+        "publicationNumber": "WO 2024/190513",
+        "registrationDate": "2025-01-07",
+        "registrationNumber": "特許第7614691号"
+      }
+    },
+    {
+      "id": "CTT100928459",
+      "category": "patent",
+      "title": "カーボン空気二次電池",
+      "titleLanguage": "ja",
+      "authors": [
+        "Manabu Ihara",
+        "Keisuke Kameda",
+        "Reimi Takagi",
+        "Taishiro Wakamiya"
+      ],
+      "source": {
+        "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100928459",
+        "accessedDate": "2026-10-18",
+        "archive": "sources/t2r2/2026-10-18/CTT100928459.html"
+      },
+      "links": [],
+      "patent": {
+        "status": "published",
+        "applicant": "国立大学法人東京工業大学",
+        "filingDate": "2024-03-04",
+        "applicationNumber": "PCT/JP2024/008157",
+        "publicationDate": "2024-09-19",
+        "publicationNumber": "WO 2024/190513",
+        "note": "審査未請"
+      }
+    }
+  ]
+}

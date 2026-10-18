@@ -1,0 +1,146 @@
+{
+  "accessedDate": "2026-10-18",
+  "fetchedAt": "2026-10-18T18:15:16.589942+00:00",
+  "files": [
+    {
+      "file": "list.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?lv=en&q_researcher_content_number=6b70999a586b49bfd6f87789e46acb11&alldisp=1&tab_yf=2026",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "b6672f854383f624b61a1066b072677be17285a958f225ab94ec38dbf35acca8",
+      "bytes": 25847
+    },
+    {
+      "file": "CTT100942285.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100942285",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "dfff7a727ea10c4ee2c38a2a97d5bee0fdda8535135afac7fb4d16ef1992ec2a",
+      "bytes": 11666
+    },
+    {
+      "file": "CTT100928680.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100928680",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "4534e488426dac71aec634c73b9ed42c7aa189515f491192246ae8745c931bc7",
+      "bytes": 12376
+    },
+    {
+      "file": "CTT100944899.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100944899",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "946e6d4164bafb53fc0513eb1cb6467bafae7c9b72225f2d536e14152d1da1a3",
+      "bytes": 11288
+    },
+    {
+      "file": "CTT100929553.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100929553",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "abcecd33a5e27787c87ae4e77ca974da71ce97ebe350342feaa3d3eb6706dcee",
+      "bytes": 12491
+    },
+    {
+      "file": "CTT100929551.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100929551",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "583e71d87bbe49d10dd2eba3baeb1b1e6d1eee831d6d6500bd9dc0cc6276b768",
+      "bytes": 12114
+    },
+    {
+      "file": "CTT100942067.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100942067",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "28cf8f19255063f7cb2d4e2015d1b3714a0969f8fdba0a0896e53831c1e44080",
+      "bytes": 10941
+    },
+    {
+      "file": "CTT100939819.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100939819",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "7679e0320e7aab63be7e880cbfe7000bebb3947eab9a7d0d0c272175076a666f",
+      "bytes": 10926
+    },
+    {
+      "file": "CTT100925715.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100925715",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "02d469a056e0413c2e1c4b0a8d01a38849cb4a6e8f1d14c82e3e3b4af4f9b6d7",
+      "bytes": 11984
+    },
+    {
+      "file": "CTT100925714.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100925714",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "81ba698dfa202e33760045f359c49286ee35ec3b328af2709e619e1e143d1693",
+      "bytes": 12457
+    },
+    {
+      "file": "CTT100925713.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100925713",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "d7d59ec33154a38f8560fc6d4eaf28494f80f5ce1b9a6a2ce4465d2e3e270b61",
+      "bytes": 12925
+    },
+    {
+      "file": "CTT100909025.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100909025",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "de6a932f1f2594e439c80ef30ad454d66882e5861ff1552161c924711c32ffe2",
+      "bytes": 11854
+    },
+    {
+      "file": "CTT100909024.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100909024",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "8a24fd9f16b6ccc73db9153cb98c4daf9964b818c9da650915a588970d3db931",
+      "bytes": 14151
+    },
+    {
+      "file": "CTT100943687.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100943687",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "d271575d2c0a8ab2d772dfb9def0f950686f3c0a442ef6b4ed9361fa1bece406",
+      "bytes": 9434
+    },
+    {
+      "file": "CTT100943688.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100943688",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "a1a616d2a2e444ee90a1773b8195b21f73ab478f65c852c386ac5bf9fad6e7d4",
+      "bytes": 9427
+    },
+    {
+      "file": "CTT100932502.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100932502",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "acfb9b7fabbfc4e3a456ba9eedac2c07512519f57d6469c54a04ce0b82512b0b",
+      "bytes": 9701
+    },
+    {
+      "file": "CTT100928459.html",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?lv=en&q_patent_content_number=CTT100928459",
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "20f1dca626d1bb0a24e90f0a5f4a65144439cf5d174a4e1b89d3673fff49c20e",
+      "bytes": 9475
+    },
+    {
+      "file": "publications.bib",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?save_bibtex=1&lv=en&q_researcher_content_number=6b70999a586b49bfd6f87789e46acb11&alldisp=1",
+      "contentType": "text/plain; charset=utf-8",
+      "sha256": "d02c203b8b1c0c6a75913b394490cb530ed0349cad5ed18f87584a57454ff932",
+      "bytes": 4949
+    },
+    {
+      "file": "publications.csv",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/publicationsearchresult.cgi?save_csv=1&lv=en&q_researcher_content_number=6b70999a586b49bfd6f87789e46acb11&alldisp=1",
+      "contentType": "text/plain; charset=Shift_JIS",
+      "sha256": "00cd1911ccb92a81256e1cbdcc74928c4fdc05a404d6eb4b0c3b24d3cf0a4c00",
+      "bytes": 2548
+    },
+    {
+      "file": "patents.csv",
+      "url": "https://t2r2.star.titech.ac.jp/cgi-bin/patentsearchresult.cgi?save_csv=1&lv=en&q_researcher_content_number=6b70999a586b49bfd6f87789e46acb11&alldisp=1",
+      "contentType": "text/plain; charset=Shift_JIS",
+      "sha256": "cee73d195a4c642b6dce98297dc7da2a4325bd2b8cea430353f416b767f4e015",
+      "bytes": 146
+    }
+  ]
+}
