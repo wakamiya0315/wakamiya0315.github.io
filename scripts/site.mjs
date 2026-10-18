@@ -1,7 +1,7 @@
 export const categories = [
   { id: 'journal', label: 'Journal Articles', short: 'Journal articles' },
   { id: 'international-conference', label: 'International Conferences', short: 'International conferences' },
-  { id: 'domestic-conference', label: 'Domestic Conferences', short: 'Domestic conferences' },
+  { id: 'domestic-conference', label: 'Domestic Conferences (Japan)', short: 'Domestic conferences (Japan)' },
   { id: 'patent', label: 'Patents', short: 'Patents' },
 ];
 
