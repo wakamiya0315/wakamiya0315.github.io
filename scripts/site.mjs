@@ -135,6 +135,7 @@ export function renderPage(data) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="-Lh0vkAT79rJ9DGXMfKf1MOYMvnOa9EsQbtdMB0ejdw">
   <meta name="description" content="${e(description)}">
   <meta name="theme-color" content="#fafbfc">
   <meta property="og:type" content="website">
@@ -165,7 +166,7 @@ export function renderPage(data) {
       <aside class="browse"><nav aria-label="Output categories"><p class="eyebrow">Browse by type</p>${navigation}</nav></aside>
       <main id="outputs" tabindex="-1">${sections}</main>
     </div>
-    <footer class="page-footer"><p>Last updated ${e(formatDate(site.updated, true))}</p><p>Records migrated from <a href="${e(site.sourceUrl)}">T2R2</a> · <a href="#top" aria-label="Back to top">Back to top ↑</a></p></footer>
+    <footer class="page-footer"><p>Last updated ${e(formatDate(site.updated, true))}</p><p>Records migrated from <a href="${e(site.sourceUrl)}">T2R2</a> · <a href="./apps/tsubame4-drive/">TSUBAME4 Drive Storage</a> · <a href="#top" aria-label="Back to top">Back to top ↑</a></p></footer>
   </div>
 </body>
 </html>\n`;

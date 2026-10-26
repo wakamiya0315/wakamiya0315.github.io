@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="TSUBAME4 Drive Storage is a personal utility for accessing Google Drive files from TSUBAME4 using google-drive-ocamlfuse.">
+  <title>TSUBAME4 Drive Storage</title>
+  <link rel="canonical" href="https://wakamiya0315.github.io/apps/tsubame4-drive/">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to app information</a>
+  <div class="page app-page">
+    <header class="page-header">
+      <p class="eyebrow">Personal research utility</p>
+      <h1>TSUBAME4 Drive Storage</h1>
+      <p class="app-intro">Access a designated Google Drive folder as a Linux directory on TSUBAME4, with files stored in Google Drive and cached as needed.</p>
+    </header>
+    <nav class="app-nav" aria-label="App information">
+      <a href="./" aria-current="page">Overview</a>
+      <a href="privacy.html">Privacy policy</a>
+      <a href="terms.html">Terms of use</a>
+    </nav>
+    <main id="content" class="app-content">
+      <div class="app-details"><p>Operated by Taishiro Wakamiya for personal research file storage. Google account authorization is performed through Google's sign-in and consent screens.</p></div>
+      <h2>What the app does</h2>
+      <p>The app uses <a href="https://github.com/astrada/google-drive-ocamlfuse">google-drive-ocamlfuse</a>, a FUSE filesystem client, to connect TSUBAME4 to Google Drive through the Google Drive API. The owner can browse, read, create, update, rename, and delete files using ordinary filesystem operations.</p>
+      <p>Changes are reflected in Google Drive and can be accessed through the owner's Google Drive desktop client. File contents, filesystem metadata, and authentication tokens are cached or stored in the owner's private TSUBAME4 directories to support these operations.</p>
+      <h2>Google Drive permission</h2>
+      <p>The OAuth permission covers viewing, editing, creating, and deleting Google Drive files. The mount is configured to display a designated folder. This folder setting limits the mounted view; it does not narrow the Google account permission granted to the client.</p>
+      <h2>Personal access</h2>
+      <p>This is an individually operated storage setup for its owner's account and authorized TSUBAME4 environment. Access to the mounted filesystem and saved credentials is restricted using filesystem permissions. This information website contains no sign-in form and does not receive Google authentication tokens or Drive files.</p>
+      <h2>Data handling and contact</h2>
+      <p>Read the <a href="privacy.html">privacy policy</a> for data use, storage, retention, and revocation, and the <a href="terms.html">terms of use</a> for usage conditions.</p>
+      <p>Maintainer: <a href="https://github.com/wakamiya0315">Taishiro Wakamiya on GitHub</a>. Questions about this setup may be raised through the <a href="https://github.com/wakamiya0315/wakamiya0315.github.io/issues">website repository's issue tracker</a>. Do not include private files or credentials in a public issue.</p>
+      <p class="app-date">Last updated: October 26, 2026</p>
+    </main>
+    <footer class="page-footer"><p><a href="../../">Taishiro Wakamiya — Research Outputs</a></p><p>TSUBAME4 Drive Storage</p></footer>
+  </div>
+</body>
+</html>

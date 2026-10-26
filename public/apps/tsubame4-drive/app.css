@@ -1,0 +1,16 @@
+.app-page { max-width: 850px; }
+.app-page .page-header { padding-top: 48px; }
+.app-page h1 { font-size: clamp(34px, 6vw, 48px); margin-bottom: 20px; }
+.app-nav { display: flex; flex-wrap: wrap; gap: 12px 24px; margin: 24px 0 36px; padding-bottom: 20px; border-bottom: 1px solid var(--line); font-size: 14px; }
+.app-nav a[aria-current="page"] { font-weight: 700; color: var(--ink); }
+.app-content { padding-bottom: 32px; }
+.app-content h2 { font-family: inherit; font-size: 21px; letter-spacing: normal; margin: 32px 0 12px; }
+.app-content p, .app-content li { overflow-wrap: anywhere; }
+.app-content ul { padding-left: 24px; }
+.app-content li { margin: 8px 0; }
+.app-intro { color: var(--muted); font-size: 18px; }
+.app-details { margin: 28px 0; padding: 20px 24px; border-left: 3px solid var(--blue); background: #edf2f8; }
+.app-details p { margin: 0; }
+.app-date { color: var(--muted); font-size: 13px; }
+.app-page code { font-size: .9em; overflow-wrap: anywhere; }
+@media (max-width: 640px) { .app-page .page-header { padding-top: 32px; } }

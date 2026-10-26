@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="How TSUBAME4 Drive Storage accesses, uses, stores, and protects Google Drive data.">
+  <title>Privacy policy — TSUBAME4 Drive Storage</title>
+  <link rel="canonical" href="https://wakamiya0315.github.io/apps/tsubame4-drive/privacy.html">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to privacy policy</a>
+  <div class="page app-page">
+    <header class="page-header"><p class="eyebrow">TSUBAME4 Drive Storage</p><h1>Privacy policy</h1><p class="app-date">Effective and last updated: October 26, 2026</p></header>
+    <nav class="app-nav" aria-label="App information"><a href="./">Overview</a><a href="privacy.html" aria-current="page">Privacy policy</a><a href="terms.html">Terms of use</a></nav>
+    <main id="content" class="app-content">
+      <p>TSUBAME4 Drive Storage is a personal Google Drive mounting setup operated by Taishiro Wakamiya using google-drive-ocamlfuse on TSUBAME4. This policy describes the Google user data handled by that setup and this information website.</p>
+      <h2>Data accessed</h2>
+      <ul>
+        <li>Google Drive file contents and metadata needed for requested filesystem operations, including file names, identifiers, parent folders, sizes, timestamps, and permissions.</li>
+        <li>Google account and storage information returned by the Drive API to identify the authorized account and report available storage.</li>
+        <li>OAuth access and refresh tokens that permit the client to perform authorized operations without asking the owner to sign in for every request.</li>
+        <li>Operational logs, cached file data, and filesystem metadata needed to run and troubleshoot the mount.</li>
+      </ul>
+      <h2>Purpose and use</h2>
+      <p>Google user data is used to provide the owner's requested file browsing, transfer, storage, and file management operations, and to maintain the connection. The mount displays a configured folder even though the OAuth grant permits access to Google Drive more broadly.</p>
+      <p>Google user data is not sold, used for advertising, or used to train generalized AI or machine learning models. Use and transfer of data obtained from Google APIs follows the <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>, including its Limited Use requirements.</p>
+      <h2>Storage and protection</h2>
+      <p>Cloud files are stored in the owner's Google Drive account. Credentials, metadata, logs, and a working file cache are stored in private directories on TSUBAME4. Files accessed through the owner's Google Drive desktop client may also be cached on that computer.</p>
+      <p>Google API traffic uses HTTPS. TSUBAME4 credential and state files are restricted to the owning operating system account, with private directory permissions. The owner remains responsible for protecting their devices, credentials, and institutional account. Authorized infrastructure administrators may have access according to the relevant service's operational policies.</p>
+      <h2>Transfers and service providers</h2>
+      <p>Requested transfers take place between Google Drive and the owner's authorized computers and TSUBAME4 environment. The mounting setup does not intentionally disclose Drive data to other recipients unless the owner requests a file operation that does so.</p>
+      <p>This public information website is hosted by GitHub Pages. It does not receive OAuth tokens or Drive files and uses no application analytics or tracking scripts. GitHub may process ordinary web request information under its <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">privacy statement</a>. Google's services are subject to <a href="https://policies.google.com/privacy">Google's privacy policy</a>.</p>
+      <h2>Retention and deletion</h2>
+      <p>Drive files remain in the owner's account until the owner changes or deletes them. Normal deletion through the configured mount moves files to Google Drive's trash. Cache entries are removed according to the client's cache management settings. Pending transfers and active files may require additional working storage.</p>
+      <p>Authentication state, metadata, and operational logs remain on TSUBAME4 until replaced or removed by the owner. To remove the setup, the owner can unmount it and remove its credentials, metadata, logs, and cache directories after confirming that needed files have reached Drive.</p>
+      <h2>Revoking access</h2>
+      <p>The owner can revoke TSUBAME4 Drive Storage's access at any time through <a href="https://myaccount.google.com/connections">Google Account third-party connections</a>. They should then unmount the filesystem and remove saved credentials if the setup is no longer needed. Revoking access does not delete files already stored in Google Drive.</p>
+      <h2>Contact and updates</h2>
+      <p>Contact the maintainer through <a href="https://github.com/wakamiya0315">the owner's GitHub profile</a> or the <a href="https://github.com/wakamiya0315/wakamiya0315.github.io/issues">website issue tracker</a>. Public issues should contain no credentials or private file contents. Changes to this policy will be published here with a revised date.</p>
+    </main>
+    <footer class="page-footer"><p><a href="./">TSUBAME4 Drive Storage</a></p><p><a href="terms.html">Terms of use</a></p></footer>
+  </div>
+</body>
+</html>

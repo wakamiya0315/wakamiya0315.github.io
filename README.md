@@ -60,3 +60,13 @@ T2R2の元ページ・BibTeX・CSVと取得情報を `sources/t2r2/2026-10-18/` 
 GitHub Pagesの公開元は **GitHub Actions** です。公開するのは生成した `dist/` のみで、サイトの表示にT2R2や外部APIへの通信は必要ありません。
 
 Gitコミットは `type(scope): 日本語の要約` のConventional Commits形式を使用します。
+
+## TSUBAME4 Drive Storage
+
+個人用Google DriveマウントのOAuthアプリ説明を `public/apps/tsubame4-drive/` に配置しています。
+`index.html` がアプリの説明、`privacy.html` がGoogle APIデータの取り扱い、`terms.html` が利用条件です。
+公開URLは `https://wakamiya0315.github.io/apps/tsubame4-drive/` です。
+
+ビルドでは `public/` の静的ファイルを階層ごと `dist/` にコピーします。
+Google Search Consoleの所有権確認用メタタグは `scripts/site.mjs` のホームページ生成部分で公開を維持します。
+OAuthのクライアントシークレット、トークン、個人用設定ファイルはこのリポジトリに保存しません。

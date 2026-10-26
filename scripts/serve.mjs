@@ -9,7 +9,7 @@ const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=
 createServer(async (request, response) => {
   try {
     const path = decodeURIComponent(new URL(request.url, 'http://localhost').pathname);
-    const file = resolve(root, '.' + (path === '/' ? '/index.html' : path));
+    const file = resolve(root, '.' + (path.endsWith('/') ? `${path}index.html` : path));
     if (!file.startsWith(resolve(root) + sep)) throw new Error('Invalid path');
     const contents = await readFile(file);
     response.writeHead(200, { 'Content-Type': types[extname(file)] || 'application/octet-stream', 'Cache-Control': 'no-store' });
