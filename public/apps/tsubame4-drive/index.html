@@ -29,7 +29,7 @@
       <p>The app uses <a href="https://github.com/astrada/google-drive-ocamlfuse">google-drive-ocamlfuse</a>, a FUSE filesystem client, to connect TSUBAME4 to Google Drive through the Google Drive API. The owner can browse, read, create, update, rename, and delete files using ordinary filesystem operations.</p>
       <p>Changes are reflected in Google Drive and can be accessed through the owner's Google Drive desktop client. File contents, filesystem metadata, and authentication tokens are cached or stored in the owner's private TSUBAME4 directories to support these operations.</p>
       <h2>Google Drive permission</h2>
-      <p>The OAuth permission covers viewing, editing, creating, and deleting Google Drive files. The mount is configured to display a designated folder. This folder setting limits the mounted view; it does not narrow the Google account permission granted to the client.</p>
+      <p>The OAuth permission covers viewing, editing, creating, and deleting Google Drive files. The normal directory tree starts at a designated folder. The client also provides a virtual <code>.shared</code> directory for items shared with the account. The folder setting is a browsing convenience and does not narrow the Google account permission granted to the client.</p>
       <h2>Personal access</h2>
       <p>This is an individually operated storage setup for its owner's account and authorized TSUBAME4 environment. Access to the mounted filesystem and saved credentials is restricted using filesystem permissions. This information website contains no sign-in form and does not receive Google authentication tokens or Drive files.</p>
       <h2>Data handling and contact</h2>

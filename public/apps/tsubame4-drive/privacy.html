@@ -25,7 +25,7 @@
         <li>Operational logs, cached file data, and filesystem metadata needed to run and troubleshoot the mount.</li>
       </ul>
       <h2>Purpose and use</h2>
-      <p>Google user data is used to provide the owner's requested file browsing, transfer, storage, and file management operations, and to maintain the connection. The mount displays a configured folder even though the OAuth grant permits access to Google Drive more broadly.</p>
+      <p>Google user data is used to provide the owner's requested file browsing, transfer, storage, and file management operations, and to maintain the connection. The normal directory tree starts at a configured folder; the client also provides a virtual <code>.shared</code> view of items shared with the account. The OAuth grant permits access to Google Drive more broadly.</p>
       <p>Google user data is not sold, used for advertising, or used to train generalized AI or machine learning models. Use and transfer of data obtained from Google APIs follows the <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>, including its Limited Use requirements.</p>
       <h2>Storage and protection</h2>
       <p>Cloud files are stored in the owner's Google Drive account. Credentials, metadata, logs, and a working file cache are stored in private directories on TSUBAME4. Files accessed through the owner's Google Drive desktop client may also be cached on that computer.</p>
